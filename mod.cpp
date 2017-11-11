@@ -1,0 +1,12 @@
+name="Advanced Armor Plate Mod";
+tooltipOwned="mae by V.Berlioz and Sonic.T";
+picture="AAPM.paa";
+hidePicture=0;
+hideName=0;
+actionName = "Website";
+action = "http://blog.naver.com/dudgur90/221064231110";
+logoSmall = "AAPM.paa";
+logo = "AAPM.paa";
+logoOver = "AAPM.paa";
+description = "Infantry Damage Module Overhaul";
+overview = "Advanced Armor Plate Mod";
